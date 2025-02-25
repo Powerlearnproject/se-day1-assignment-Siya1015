@@ -6,6 +6,8 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is a branch of the comnbination of both computer science and engineering that deals with designing, developing, testing and maintaining software applicatons.Software enegineers can be regarded as architects and builders of softwares as they are required to design and create apps(computer games,operating systems) that run smoothly and ensure that there are no bugs in the apps.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
