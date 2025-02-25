@@ -1,9 +1,12 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18385095&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
+Software engineering is a branch of the comnbination of both computer science and engineering that deals with designing, developing, testing and maintaining software applicatons.Software enegineers can be regarded as architects and builders of softwares as they are required to design and create apps(computer games,operating systems) that run smoothly and ensure that there are no bugs in the apps.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
